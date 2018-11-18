@@ -1,9 +1,0 @@
-E:\Kinect\Final Project\PROJECT\Demo2\obj\x64\Debug\MainWindow.g.cs
-E:\Kinect\Final Project\PROJECT\Demo2\obj\x64\Debug\App.g.cs
-E:\Kinect\Final Project\PROJECT\Demo2\obj\x64\Debug\DiscreteGestureBasics-WPF_Content.g.cs
-E:\Kinect\Final Project\PROJECT\Demo2\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
-E:\Kinect\Final Project\PROJECT\Demo2\obj\x64\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
-E:\Kinect\Final Project\PROJECT\Demo2\obj\x64\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
-E:\Kinect\Final Project\PROJECT\Demo2\obj\x64\Debug\Kinect.GestureRecognitionApplication-WPF_Content.g.cs
-E:\Kinect\Final Project\PROJECT\Demo2\obj\x64\Debug\Kinect.GestureRecognitionApplication-WPF_MarkupCompile.cache
-E:\Kinect\Final Project\PROJECT\Demo2\obj\x64\Debug\Kinect.GestureRecognitionApplication-WPF_MarkupCompile.lref
