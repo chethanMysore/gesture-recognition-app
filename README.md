@@ -35,7 +35,7 @@ Gestures are built using Microsoft Kinect Visual Gesture Builder tool provided b
 ## Achievements
 The research paper was published in International Journal of Innovative Research in Computer and Communication Engineering in the year 2016, volume 4, issue 5. [Checkout the paper here](http://www.ijircce.com/upload/2016/may/108_22_Gesture_2%20HARD.pdf)<br/>
 
-Chethan M R Adarsh M V Akarsh M S Karunesh Gurkar,Prashanth Kumar(Guide)(2016).“GestureRecognitionforInteractiveSys-temsUsingKinectv2”.In:InternationalJournalofInnovativeRe-searchinComputerandCommunicationEngineering(IJIRCCE),4(5):9186–9191,052016.ISSN:2320-9801.DOI:10.15680/IJIRCCE.2015.0405108.URL:http://www.ijircce.com/upload/2016/may/108_22_Gesture_2%20HARD.pdf
+Chethan M R Adarsh M V Akarsh M S Karunesh Gurkar,Prashanth Kumar(Guide)(2016).“Gesture Recognition for Interactive Sys-tems Using Kinect v2”. In:International Journal of Innovative Re-search in Computer and Communication Engineering(IJIRCCE),4(5):9186–9191,052016.ISSN:2320-9801. DOI:10.15680/IJIRCCE.2015.0405108. URL:http://www.ijircce.com/upload/2016/may/108_22_Gesture_2%20HARD.pdf
 
 The project was awarded 3rd place in the Annual Project Exhibition, "Vivaceous".
 
