@@ -24,4 +24,12 @@ Authorized users will be allowed to use gestures to control the system. New user
 
 ## Results
 
-The tool comes with two sections: *Settings* and *Authentication* <br/>
+The tool comes with two sections: *Settings* and *Authentication*. <br/>
+
+![Gesture Recognition App](./docs/images/gesture1.png)
+
+Gestures are built using Microsoft Kinect Visual Gesture Builder tool provided by Microsoft.<br/>
+
+![Gesture Builder](./docs/images/gesture2.png)
+
+## Bibliography
