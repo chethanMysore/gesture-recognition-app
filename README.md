@@ -18,7 +18,7 @@ can be imported in a Visual Studio Project to bind actions to this gesture.
 ## User Authorization
 Microsoft Kinect V2 comes with powerful infrared sensers and depth sensers which can detect upto 6 skeletal frames at once. 
 However, the challenge here is to identify the authorized users in real-time. 
-This can be achieved with face recognition. For this we use dimensionality reduction using **PCA**(Principal Component Analysis) and *Eigen Faces*. 
+This can be achieved with face recognition. For this we use dimensionality reduction using **PCA**(Principal Component Analysis) and *Eigen Faces*[1]. 
 These are low level features for grey scale images of faces that then can be compared with newly captured images at real time. 
 Authorized users will be allowed to use gestures to control the system. New users can be added and authorized dynamically using the same tool.
 
@@ -33,3 +33,14 @@ Gestures are built using Microsoft Kinect Visual Gesture Builder tool provided b
 ![Gesture Builder](./docs/images/gesture2.png)
 
 ## Bibliography
+
+[1]. Abhishek Singh,“Face Recognition Using PCA and Eigen Face Approach”, Journal of National Institute of Technology, Rourkela,
+3rdSeptember 2012
+[2]. D.M. Hobson, R.M. Carter, Y.Yan, “Interactive Gesture Recognition”, Information Technology Conference IMTC 2012
+Warsaw, Poland, May 1-3, 2012
+[3]. J.L. Raheja, A.Chaudhary, K.Singal, “Tracking of Fingertips and Centre of Palm using KINECT”, IEEE International Conference on
+Computational Intelligence, Modelling and Simulation, Malaysia, 20-22 Sep, 2011, pp. 248-252.
+[4]. M. A. Turk and A. P. Pentland,“Eigenfaces for Recognition”, Journal of Cognitive Neuroscience, 3(1):7186, 1991
+[5]. Anil K. Jain, Robert P.W. Duin, and Jianchang Mao,“Statistical Pattern Recognition: A Review”, IEEE Transactions on Pattern
+Analysis and Machine Intelligence, 22(1):4, 37thJanuary 2000.
+[6]. Abhijith Jana, Kinect for Windows SDK programming guide.
