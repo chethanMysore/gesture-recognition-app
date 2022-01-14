@@ -3,7 +3,7 @@ This is a windows desktop application for gesture recognition and their mapping 
 
 ## Overview
 The **WPF** application aims at controlling mouse and keyboard inputs with innovatively mapped hand gestures(both continuous and discrete). 
-The application authenticates and also dynamically authorizers users to use gestures for interactive control over the system. 
+The application authenticates and also dynamically authorizes users to use gestures for interactive control over the system. 
 The **intuitive UI** design helps users set sensitivity and allows them to create authorization profiles dynamically.
 
 ## Microsoft Kinect V2 and SDK
